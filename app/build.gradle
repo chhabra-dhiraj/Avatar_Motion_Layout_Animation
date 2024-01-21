@@ -4,12 +4,13 @@ plugins {
 }
 
 android {
-    compileSdk 32
+    namespace "io.github.chhabra_dhiraj.avatar_motion_layout_animation"
+    compileSdk 34
 
     defaultConfig {
         applicationId "io.github.chhabra_dhiraj.avatar_motion_layout_animation"
-        minSdk 21
-        targetSdk 32
+        minSdk 24
+        targetSdk 34
         versionCode 1
         versionName "1.0"
 
